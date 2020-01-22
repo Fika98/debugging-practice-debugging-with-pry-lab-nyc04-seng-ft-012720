@@ -28,4 +28,4 @@ class Person
     end
     binding.pry
   end
-
+end 
