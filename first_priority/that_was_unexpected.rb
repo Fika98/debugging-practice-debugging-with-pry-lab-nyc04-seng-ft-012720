@@ -1,3 +1,4 @@
+require 'pry'
 class Person
   attr_accessor :name, :candy_lover
 
@@ -26,4 +27,4 @@ class Person
         "not a ballin candy lover"
     end
   end
-end
+ 
